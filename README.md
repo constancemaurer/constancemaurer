@@ -1,4 +1,4 @@
-### Hi 👋, my name is Constance - Junior Data Scientist, Molecular Biologist !
+### Hi 👋, my name is Constance - Data Scientist !
 
 <!--
 **constancemaurer/constancemaurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Data Science Intern looking for fulltime junior position 🌱
+* Data Science 🌱
 
-* In my free time, I am working on building my own little recommendation system. Still learning the ropes I am interested to marry content-based and collaborative-filtering methods while applying matrix factorisation. I am intrigued to explore not only the Surprise library, but also LightFM and Spark's MLlib recommendation system.
- 
 * On my quest to learn all data science and software engineering, I am fully immersing myself into Django and NLP Deep Learning.
 
 * Love visualising my work in dash or streamlit and deploying it with Heroku 🔭
