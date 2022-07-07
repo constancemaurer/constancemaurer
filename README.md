@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 * Data Science 🌱
 
-* On my quest to learn all data science and software engineering, I am fully immersing myself into Django and NLP Deep Learning.
+* On my quest to learn all data science and software engineering.
 
 * Love visualising my work in dash or streamlit and deploying it with Heroku 🔭
 
 * Surfing the wave of Bioinformatics 👯
+
+* you can also find me at https://gitlab.com/cmaurer2111
