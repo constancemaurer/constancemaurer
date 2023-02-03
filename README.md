@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Data Science 🌱
-
-* On my quest to learn all data science and software engineering.
-
-* Love visualising my work in dash or streamlit and deploying it with Heroku 🔭
-
-* Surfing the wave of Bioinformatics 👯
+* PhD Candidate in Bioinformatics | Data Science 🌱
 
 * you can also find me at https://gitlab.com/cmaurer2111
