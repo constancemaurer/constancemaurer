@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 * PhD Candidate in Bioinformatics | Data Science 🌱
 
 * you can also find me at https://gitlab.com/cmaurer2111
+
+* maintainer of this reduced version of the quantipy3 package that runs on python >3.9 and only does the basic weighting: [qudo-quantipy](https://pypi.org/project/qudo-quantipy/0.0.1/)
