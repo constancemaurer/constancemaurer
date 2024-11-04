@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* PhD Researcher in Bioinformatics | Data Scientist at Qudo 🌱
+* PhD Researcher in Computational Biology  🌱
 
 * you can also find me at https://gitlab.com/cmaurer2111
 
